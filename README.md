@@ -8,5 +8,5 @@
 
 More about me on my [portfolio](https://ezulfiqar.com/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ezulfiqar)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ezulfiqar)](https://git.io/streak-stats)
 
