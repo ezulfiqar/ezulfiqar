@@ -3,7 +3,7 @@
 ### About me
 
 * 🇨🇦 Senior Fullstack Developer from Canada
-* 💼 Currently I’m working as a Software Engineer at [Silverstein Properties](https://silversteinproperties.com/)
+* 💼 Currently I’m working as a Software Engineer at [AlayaCare](https://alayacare.com/)
 * 🏍️ Motorcycle and car enthusiast
 
 More about me on my [portfolio](https://ezulfiqar.com/)
