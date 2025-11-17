@@ -10,5 +10,5 @@ More about me on my [portfolio](https://ezulfiqar.com/)
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=ezulfiqar)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezulfiqar&hide=contribs,prs)
+![Ehtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezulfiqar&hide=contribs,prs)
 -->
